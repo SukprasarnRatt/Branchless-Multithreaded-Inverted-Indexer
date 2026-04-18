@@ -156,7 +156,7 @@ Build the index
 
 
 ```bash
-./tokenizer <dataset_path> <num_threads> <other_arg> <output_index_file>
+./tokenizer <dataset_path> <num_threads> <Node-Affinity> <output_index_file>
 ```
 Example:
 
