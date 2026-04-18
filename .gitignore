@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+build/
+*.o
+*.out
+*.exe
+.DS_Store
